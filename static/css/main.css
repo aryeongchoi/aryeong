@@ -1,0 +1,22 @@
+.profile{
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #dbdbdb;
+    text-align: center;
+}
+
+.profile-image img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.profile-stats{
+    margin: 10px 0;
+}
+
+.profile-stats div{
+    margin-bottom: 5px;
+}
